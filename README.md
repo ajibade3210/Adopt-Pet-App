@@ -4,15 +4,13 @@
 ```
 npm install
 ```
+# Adopt Application
+This application was developed Using VueX and Boostrap-Vue
+ 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+ ### Check The App Out 
+- Hosted on Heroku  [Weather-App](https://gentle-tundra-75592.herokuapp.com/)
+- Heroku https://gentle-tundra-75592.herokuapp.com/
 ```
 
 ### Run your tests
